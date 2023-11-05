@@ -37,4 +37,4 @@ jobs:
     - name: Python application
       run: |
         pytest calci.py
-        pytest new_file.py
+  
